@@ -4,7 +4,7 @@ import { Progress, Tag } from 'antd';
 
 const data = [
   '语雀的天空',
-  '光脑 BI',
+  '云哈哈BI',
   '蚂蚁金服体验科技',
   'TechUI',
   'TechUI 2.0',

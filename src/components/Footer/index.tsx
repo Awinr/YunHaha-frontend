@@ -3,7 +3,7 @@ import { DefaultFooter } from '@ant-design/pro-components';
 import '@umijs/max';
 import React from 'react';
 const Footer: React.FC = () => {
-  const defaultMessage = '光脑 BI';
+  const defaultMessage = '云哈哈BI';
   const currentYear = new Date().getFullYear();
   return (
     <DefaultFooter
@@ -13,8 +13,8 @@ const Footer: React.FC = () => {
       copyright={`${currentYear} ${defaultMessage}`}
       links={[
         {
-          key: '光脑 BI',
-          title: '光脑 BI',
+          key: '云哈哈BI',
+          title: '云哈哈BI',
           href: 'https://pro.ant.design',
           blankTarget: true,
         },
@@ -25,8 +25,8 @@ const Footer: React.FC = () => {
           blankTarget: true,
         },
         {
-          key: '光脑 BI',
-          title: '光脑 BI',
+          key: '云哈哈BI',
+          title: '云哈哈BI',
           href: 'https://ant.design',
           blankTarget: true,
         },

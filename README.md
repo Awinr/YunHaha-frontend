@@ -1,4 +1,11 @@
-# 光脑 BI
+# 云哈哈数据分析平台
+
+## Usage
+
+1. 输入分析诉求
+2. 输入图表名称
+3. 选择分析图表类型
+4. 上传excel表数据
 
 ## Environment Prepare
 
@@ -8,16 +15,3 @@ Install `node_modules`:
 npm/yarn install
 ```
 
-## TODO
-
-- openapi 生成的 data 都是 Record 类型?
-
-```ts
-type BaseResponsePageChart_ = {
-  code?: number;
-  data?: Record<string, any>;
-  message?: string;
-};
-```
-
-- 监听 ProTable 表单内容的变化，比如根据一个值的变化改变另外一个值

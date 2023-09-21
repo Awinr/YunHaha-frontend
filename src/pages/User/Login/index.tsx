@@ -150,8 +150,8 @@ const Login: React.FC = () => {
             maxWidth: '75vw',
           }}
           logo={<img alt="logo" src="/logo.svg" />}
-          title="智能数据BI平台"
-          subTitle={'光脑 BI 做最贴心的BI平台'}
+          title="云哈哈BI"
+          subTitle={'智慧数据分析平台'}
           initialValues={{
             autoLogin: true,
           }}

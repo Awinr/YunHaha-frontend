@@ -15,7 +15,7 @@ const dataSource = [
     title: '语雀的天空',
   },
   {
-    title: '云哈哈BI',
+    title: '云瑞BI',
   },
   {
     title: '蚂蚁金服体验科技',

@@ -4,13 +4,13 @@ import { useState } from 'react';
 
 const data = [
   '语雀的天空',
-  '云哈哈BI',
+  '云瑞BI',
   '蚂蚁金服体验科技',
   'TechUI',
   'TechUI 2.0',
   'Bigfish',
   'Umi',
-  '云哈哈BI',
+  '云瑞BI',
 ].map((item) => ({
   title: item,
   subTitle: (
